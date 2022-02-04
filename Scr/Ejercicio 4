@@ -1,0 +1,4 @@
+(Como pepe)
+sudo usermod -a -G contables juan
+sudo usermod -a -G contables maria
+? no se pueden cambiar las contraseñas a grupos pero si a usuarios.
