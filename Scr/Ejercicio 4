@@ -1,3 +1,3 @@
 (Como pepe)
 sudo usermod -a -G contables juan
-? no se pueden cambiar las contraseñas a grupos pero si a usuarios.
+groupmod -p (contraseña) contables
