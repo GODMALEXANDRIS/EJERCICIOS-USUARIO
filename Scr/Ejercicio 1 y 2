@@ -1,0 +1,8 @@
+Sudo Adduser juan
+Adduser pepe
+Adduser maria
+sudo usermod -dgG juan juan
+usermod -p pepe pepe
+usermod -p maria maria
+usermod -p juan juan
+sudo addgroup juan
