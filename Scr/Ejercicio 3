@@ -1,0 +1,3 @@
+sudo addgroup contables
+usermod -a -G contables pepe
+3. no, no.
