@@ -1,0 +1,3 @@
+sudo usermod -a -G contables maria
+cat etc/passwd
+touch
