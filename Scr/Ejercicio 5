@@ -1,3 +1,6 @@
 sudo usermod -a -G contables maria
 cat etc/passwd
 touch
+ls -l
+groupmod -R (directorio) contables
+touch
