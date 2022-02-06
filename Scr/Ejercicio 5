@@ -3,4 +3,5 @@ cat etc/passwd
 touch
 ls -l
 groupmod -R (directorio) contables
+chown archivo nuevo_propietario
 touch
