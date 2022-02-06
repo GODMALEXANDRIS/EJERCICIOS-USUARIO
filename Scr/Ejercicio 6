@@ -1,0 +1,2 @@
+1. (pongo la contraseña del grupo)
+usermod -a -G
